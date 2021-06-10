@@ -1,0 +1,24 @@
+# Created by Octave 3.8.2, Sun Jul 07 16:18:06 2019 CEST <kmor@localhost.localdomain>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 2
+ 1 2
+ 3 4
+ 5 6
+
+
+# name: ans
+# type: sq_string
+# elements: 1
+# length: 10
+/home/kmor
+
+
+# name: sz
+# type: matrix
+# rows: 1
+# columns: 2
+ 3 2
+
+
